@@ -1,0 +1,31 @@
+X
+90
+Richard Shusterman
+Principal
+Mechanical Engineering
+Y
+X
+16
+Jean Tremper
+Assistant Professor
+Political Science
+29
+4
+1
+Y
+X
+7
+Michael Shusterman
+Lecturer
+Film Production
+5
+35
+12
+Y
+X
+1
+Rene German
+Associate Professor
+Engineering
+8
+Y

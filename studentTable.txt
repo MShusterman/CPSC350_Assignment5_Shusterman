@@ -1,0 +1,56 @@
+X
+1
+Shane Jacobsen
+Sophomore
+English
+1.7
+16
+Y
+X
+5
+Alex Beebee
+Freshman
+English
+2.8
+7
+Y
+X
+29
+Bastard Beebee
+Freshman
+English
+2.8
+16
+Y
+X
+35
+Daniel Tremper
+Sophomore
+Political Science
+2.7
+7
+Y
+X
+12
+Lauren Shusterman
+Freshman
+Computer Science
+4
+7
+Y
+X
+8
+Michael Kurland
+Junior
+Film Production
+3.8
+1
+Y
+X
+4
+Conor Quigley
+Sophomore
+Nursing
+2.7
+16
+Y
